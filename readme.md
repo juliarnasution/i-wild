@@ -1,5 +1,5 @@
 #i-wild
-ini adalah projek i-wild yang di kemabngkan oleh juliar nasution
+ini adalah projek i-wild yang di kembangkan oleh juliar nasution
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 

@@ -5,7 +5,7 @@
       <div class="col-10">
         <div class="row">
         <!-- <div class="card"> -->
-          <h2>Example body text</h2>
+          <h2>Ini adalah header nya</h2>
             <p>Nullam quis risus eget <a href="#">urna mollis ornare</a> vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.</p>
             <p><small>This line of text is meant to be treated as fine print.</small></p>
             <p>The following is <strong>rendered as bold text</strong>.</p>
